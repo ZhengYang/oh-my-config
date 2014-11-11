@@ -1,0 +1,12 @@
+[alias]
+	st = status
+	co = checkout
+	ci = commit
+	br = branch
+[user]
+	email = zhengyang4k@gmail.com
+	name = ZhengYang
+[core]
+	editor = vim
+[push]
+	default = simple
